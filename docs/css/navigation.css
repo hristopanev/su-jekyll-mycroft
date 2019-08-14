@@ -13,6 +13,7 @@
     padding: 0 0.5em;
 }
 
+
 .site-nav li:first-child {
     padding-left: 0;
 }
@@ -32,4 +33,8 @@
 .site-nav a i.fas::before{
     color: #000;
     margin-right: 0.5em;
+}
+
+.site-nav a:hover i.fas::before{
+    color: #EEE;
 }

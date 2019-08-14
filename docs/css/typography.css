@@ -8,7 +8,7 @@
     box-sizing: inherit;
 }
 
-/*Box sizing*/
+/* Box sizing */
 html {
     box-sizing: border-box;
     font: var(--font-size-body, 14px)/1.5 "Fina Sans", Georgia, serif;
